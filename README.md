@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mua98)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mua98)](https://github.com/anuraghazra/github-readme-stats) -->
