@@ -2,7 +2,7 @@
 
 <p align="center">热爱科技、技术与AI的极客</p>
 
----
+✨🌟✨🌟✨🌟✨
 
 ## 🛠️ 技术栈
 
@@ -17,7 +17,7 @@
 | 🐧 系统 | CentOS · Ubuntu · OpenEuler |
 | 🤖 AI | Claude Code · OpenClaw · Hermes · Codex |
 
----
+───────
 
 ## 📬 联系方式
 
