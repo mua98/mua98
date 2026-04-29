@@ -15,7 +15,7 @@
 | 📬 中间件 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="16"/> RabbitMQ · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache_kafka/apache_kafka-original.svg" width="16"/> Kafka |
 | 🚀 DevOps | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="16"/> Docker · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="16"/> Git · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="16"/> Maven · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="16"/> Nginx |
 | 🐧 系统 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" width="16"/> CentOS · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="16"/> Ubuntu · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" width="16"/> OpenEuler |
-| 🤖 AI | <img src="https://img.icons8.com/fluency/50/anthropic.png" width="16"/> Claude Code · <img src="https://img.icons8.com/fluency/50/dog.png" width="16"/> OpenClaw · <img src="https://img.icons8.com/fluency/50/dog.png" width="16"/> Hermes · <img src="https://img.icons8.com/fluency/50/brain.png" width="16"/> Codex |
+| 🤖 AI | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="16"/> Claude Code · <img src="https://img.icons8.com/fluency/50/dog.png" width="16"/> OpenClaw · <img src="https://img.icons8.com/fluency/50/dog.png" width="16"/> Hermes · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" width="16"/> Codex |
 
 ---
 
