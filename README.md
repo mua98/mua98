@@ -17,7 +17,7 @@
 | 🐧 系统 | CentOS · Ubuntu · OpenEuler |
 | 🤖 AI | Claude Code · OpenClaw · Hermes · Codex |
 
-<p align="center">───────</p>
+<p align="center">─────────────────────────────</p>
 
 ## 📬 联系方式
 
