@@ -1,31 +1,28 @@
-# 👋 你好，我叫阿伟
+<p align="center">
+  <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="200" alt="coding cat"/>
+</p>
 
-热爱科技、技术与AI的极客
+<h1 align="center">👋 你好，我叫阿伟</h1>
 
----
-
-## 技术栈
-
-**语言** Java / Python / JavaScript / HTML / TypeScript
-
-**后端** Spring Boot / Spring Cloud / MyBatis-Plus
-
-**前端** Vue.js / Vite
-
-**数据库** MySQL / PostgreSQL / Oracle / Redis / Elasticsearch
-
-**中间件** RabbitMQ / Kafka
-
-**DevOps** Docker / Git / Maven / Nginx
-
-**操作系统** CentOS / Ubuntu / OpenEuler
-
-**AI工具** Claude Code / OpenClaw / Hermes / Codex
+<p align="center">热爱科技、技术与AI的极客</p>
 
 ---
 
-## 链接
+## 🛠️ 技术栈
 
-🔗 [个人导航页](https://mua98.xyz)
+| 分类 | 内容 |
+|------|------|
+| 💻 语言 | Java, Python, JavaScript, HTML, TypeScript |
+| 🧩 后端 | Spring Boot, Spring Cloud, MyBatis-Plus |
+| 🎨 前端 | Vue.js, Vite |
+| 🗄️ 数据库 | MySQL, PostgreSQL, Oracle, Redis, Elasticsearch |
+| 📬 中间件 | RabbitMQ, Kafka |
+| 🚀 DevOps | Docker, Git, Maven, Nginx |
+| 🐧 系统 | CentOS, Ubuntu, OpenEuler |
+| 🤖 AI | Claude Code, OpenClaw, Hermes, Codex |
 
-📧 mua98@qq.com
+---
+
+## 📬 联系方式
+
+📧 mua98@qq.com | 🔗 [个人导航页](https://mua98.xyz)
