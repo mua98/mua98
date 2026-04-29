@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/cat-engineering/cat-gifs/raw/main/coding-cat.gif" width="200" alt="coding cat"/>
-</p>
-
 <h1 align="center">👋 你好，我叫阿伟</h1>
 
 <p align="center">热爱科技、技术与AI的极客</p>
